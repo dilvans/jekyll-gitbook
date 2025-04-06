@@ -2,6 +2,7 @@
 title: Data Analysis
 layout: page
 permalink: /data-analysis/
+date: 2022-01-01
 ---
 
 
