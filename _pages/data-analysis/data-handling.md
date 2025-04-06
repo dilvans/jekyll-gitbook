@@ -9,10 +9,10 @@ layout: post
 This is a draft page.
 
 Non-centered Youtube Embed
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VM7zAcBnD-A" frameborder="0" allowfullscreen></iframe>
 
 
 Centered test
 <div style="text-align:center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VM7zAcBnD-A" frameborder="0" allowfullscreen></iframe>
 </div>
