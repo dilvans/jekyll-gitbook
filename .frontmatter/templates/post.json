@@ -1,0 +1,11 @@
+{
+    "name": "Blog Post",
+    "fields": [
+      { "name": "title", "type": "string" },
+      { "name": "date", "type": "datetime" },
+      { "name": "layout", "type": "string", "default": "post" },
+      { "name": "tags", "type": "list" },
+      { "name": "excerpt", "type": "string" }
+    ]
+  }
+  

@@ -1,0 +1,10 @@
+{
+    "name": "Page",
+    "fields": [
+      { "name": "title", "type": "string" },
+      { "name": "layout", "type": "string", "default": "home" },
+      { "name": "permalink", "type": "string" },
+      { "name": "description", "type": "string", "optional": true }
+    ]
+  }
+  

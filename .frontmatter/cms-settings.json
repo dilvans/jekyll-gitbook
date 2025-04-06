@@ -1,0 +1,28 @@
+{
+    "contentFolders": [
+      {
+        "name": "Blog Posts",
+        "path": "_posts",
+        "mediaFolder": "assets/images",
+        "defaultTemplate": "post"
+      },
+      {
+        "name": "Pages",
+        "path": "_pages",
+        "mediaFolder": "assets/images",
+        "defaultTemplate": "page"
+      },
+      {
+        "name": "Other Pages",
+        "path": "_others",
+        "mediaFolder": "assets/images",
+        "defaultTemplate": "page"
+      }
+    ],
+    "mediaFolders": ["assets/images"],
+    "settings": {
+      "useFrontMatterPath": true,
+      "showBeta": false
+    }
+  }
+  
